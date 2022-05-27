@@ -1,4 +1,4 @@
-package main;
+package modell;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class Palya {
     private Hajo hajo;
     
     public Palya() {
-        jatekIndito();
+        new Palya();    //jatekIndito();
     }
 
     public void jatekIndito() {
