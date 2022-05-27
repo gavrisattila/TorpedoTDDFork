@@ -7,7 +7,7 @@ public class TorpedoTeszt {
         System.out.println("Teszt");
         
         new TorpedoTeszt().tesztLovesTalalt(4);
-        new TorpedoTeszt().tesztLovesNemTalalt(4);
+        new TorpedoTeszt().tesztLovesNemTalalt(5);
     }
     
     public String tesztLovesTalalt(int poz){
